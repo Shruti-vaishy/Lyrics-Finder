@@ -1,0 +1,49 @@
+.App {
+  min-height: 100vh; 
+    height: auto; 
+    text-align: center; 
+    font-family: "Montserrat", sans-serif; 
+
+}
+h1{
+  font-family: "Fredoka One", cursive; 
+    color: #ff7a8a; 
+}
+
+pre { 
+  font-size: 24px; 
+  color: #113a5d; 
+} 
+
+hr { 
+  margin-top: 20px; 
+  width: 60%; 
+} 
+
+.inp { 
+  width: 200px; 
+  border-radius: 25px;
+  height: 40px; 
+  border: 2px solid #113a5d; 
+  margin: 0px 10px; 
+  padding-left: 6px; 
+  font-size: 22px; 
+  font-family: "Fredoka One", cursive; 
+} 
+
+.btn { 
+  border-radius: 25px;
+  margin: 0px 10px; 
+  padding-top: 5px;
+  width: 90px; 
+  height: 40px; 
+  color: #0f0809;
+  background-color: #f1b0b8;
+  font-family: "Fredoka One", cursive; 
+}
+
+footer{
+  font-family: "Fredoka One", cursive; 
+  font-size: 24px; 
+  color: #ff7a8a;
+}
